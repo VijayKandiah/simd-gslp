@@ -1,4 +1,4 @@
-# Evaluating [GSLP](https://dl.acm.org/doi/pdf/10.1145/3519939.3523701) on [The Simd Library](https://ermig1979.github.io/Simd/)
+# Evaluating [GSLP](https://dl.acm.org/doi/abs/10.1145/3519939.3523701) on [The Simd Library](https://ermig1979.github.io/Simd/)
 
 Here are the steps to evaluate the performance of [GSLP](https://dl.acm.org/doi/pdf/10.1145/3519939.3523701) vectorizer against that of a production version of clang on 913 benchmarks from [The Simd Library](https://ermig1979.github.io/Simd/)
 
